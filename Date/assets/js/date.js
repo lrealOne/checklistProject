@@ -110,6 +110,10 @@ const diatodo = dataFull(data)
 const h1 = document.querySelector(".container h1");
 h1.innerHTML = diatodo;
 
-
+// todo o codigo pode ser substituido por:
+/* const date = New Date();
+const h1 = d.querySelector(".container h1");
+h1.innerHTML = date.toLocaleDateString("pt-br", { dateStyle: "full", timeStyle: "short"})
+*/
 
 
