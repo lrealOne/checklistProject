@@ -1,5 +1,5 @@
 const elementos = [
-  { tag: "p", texto: "TEXT01" },
+  { tag: "p", texto: "TEXTO1" },
   { tag: "div", texto: "TEXT02" },
   { tag: "footer", texto: "TEXT03" },
   { tag: "section", texto: "TEXT03" },
